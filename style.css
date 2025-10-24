@@ -1,0 +1,13 @@
+:root{
+    --primary-color: #701212;
+    --secundary-color: #000;
+}
+body{
+    background-color: var(--primary-color);
+}
+.Deadpool1{
+    height: 1000px;
+    
+
+
+}
